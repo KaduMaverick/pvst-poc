@@ -1,0 +1,17 @@
+/** 
+    CSS MODULE: Import it as a module and use it as an object
+    import HelloWorld from './hello-world';
+
+    className={HelloWorldStyle.init}
+*/
+.init { 
+    position: relative;
+}
+
+.message {
+    font-size: 20px;
+}
+
+.message--bold {
+    font-weight: bold;
+}
